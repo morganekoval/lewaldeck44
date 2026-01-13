@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+@font-face {
+    font-family: 'Helios Antique Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Helios Antique Bold'), url('W Foundry  Helios Antique Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helios Antique Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Helios Antique Thin'), url('W Foundry  Helios Antique Thin.woff') format('woff');
+}
+
+body {
+	padding-top:15px;
+	padding-bottom: 15px;
+	text-align: center;
+	font-family: 'Borel';
+	background-color: #f4ead3;
+}
+
+.title {
+	font-family: 'Helios Antique Bold';
+}
+
+.tel{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Helios Antique Bold';
+	font-size:14px;
+}
+
+h1 {
+	margin:0px;
+	padding: 0px;
+}
+
+#header {
+	margin:20px;
+}
+
+h2 {
+	margin:10px;
+}
+
+h3 {
+	font-size: 15px;
+	margin:0px;
+}
+
+.vg {
+	display: inline-block;
+	height:15px;
+	width: 15px;
+	background-image: url('Vegetarian.png');
+	background-size: contain;
+}
+
+.pizza {
+	margin:7px;
+}
+
