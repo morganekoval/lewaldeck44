@@ -78,14 +78,20 @@ h3 {
 }
 
 #footer img {
-	width: 100%;
+/*	width: 100%;*/
 	max-width: 100%;
+	max-height: 50px;
 }
 
 .extlogo {
 	height:130px;
 	display: flex;
 	align-items: flex-end;
+}
+
+#instagram {
+	display: flex;
+	justify-content: flex-end;
 }
 
 /*.spaceholder {
