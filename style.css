@@ -62,7 +62,8 @@ h3 {
 	display: -webkit-flex;
 	flex-wrap: wrap;
 /*	flex-direction: column;*/
-	margin: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	font-family: 'Helios Antique Bold';
 }
 
@@ -78,6 +79,7 @@ h3 {
 
 #footer img {
 	width: 100%;
+	max-width: 100%;
 }
 
 .extlogo {
